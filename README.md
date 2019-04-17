@@ -1,2 +1,2 @@
 # Resume
-HyungJung Kim's resume
+![Resume.png](Resource/Resume.png)
